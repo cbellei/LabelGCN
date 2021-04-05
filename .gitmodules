@@ -1,0 +1,3 @@
+[submodule "stellargraph"]
+	path = stellargraph
+	url = https://github.com/cbellei/stellargraph

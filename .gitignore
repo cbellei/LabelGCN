@@ -1,0 +1,5 @@
+*pkl
+*png
+*.log
+.idea
+src/__pycache__/
