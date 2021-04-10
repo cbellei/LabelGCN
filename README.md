@@ -1,6 +1,6 @@
 # Label-GCN
 A variation of GCN that allows the model to learn from labelled nodes in a graph.
-Paper available at TBC.
+Paper available at https://arxiv.org/abs/2104.02153.
 
 ## Overview
 
