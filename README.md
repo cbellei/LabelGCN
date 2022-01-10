@@ -13,7 +13,7 @@ Unfortunately, Tensorflow does not easily support the use of sparse tensors with
 has the effect that currently the implementation provided in this project is inefficient for large graphs (such as the Elliptic dataset). 
 
 ## Installation
-* Tested with Python 3.6 and Tensorflow 2.3.0
+* Tested with Python 3.6
 * Clone the repository and add the Stellargraph submodule, modified with the addition of Label-GCN
 ```
 git clone https://github.com/cbellei/LabelGCN.git
